@@ -2,6 +2,30 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../Jekyll-test/myblog"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/lib"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/docs"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/bin"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/assets"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/_sass"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/_layouts"
+		},
+		{
+			"path": "../../../Downloads/just-the-docs-main/_includes"
 		}
 	],
 	"settings": {
